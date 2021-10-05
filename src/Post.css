@@ -49,6 +49,7 @@
     display: flex;
     justify-content: space-evenly;
     font-size: medium;
+    flex-direction : column;
     color: gray;
     cursor: pointer;
     padding: 15px;
@@ -58,6 +59,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+      flex-direction : column;
     padding: 5px;
     flex: 1;
   }
