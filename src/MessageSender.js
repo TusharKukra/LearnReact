@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import "./MessageSender.css";
-import {Avatar} from "@material-ui/core";
+import {Avatar, user} from "@material-ui/core";
 
 import VideocamIcon from "@material-ui/icons/Videocam";
 import PhotoLibraryIcon from "@material-ui/icons/PhotoLibrary";
