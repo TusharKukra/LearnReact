@@ -30,7 +30,8 @@ function Header() {
 
                 <div className="header_input">
                     <SearchIcon />
-                    <input placeholder="Search Facebook" type="text"/>
+                    <input placeholder="Search in the Facebook" type="text"/>
+                        
                 </div>
             </div>
 
@@ -81,6 +82,7 @@ function Header() {
 
                 <IconButton>
                     <ExpandMoreIcon/>
+                        <ExpandMoreIcon/>
                 </IconButton>
 
             </div>
