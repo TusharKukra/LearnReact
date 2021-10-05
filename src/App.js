@@ -39,6 +39,9 @@ function App() {
           <Feed />
           {/* Widgets */}
           <Widgets/>
+          
+          <AnotherSideBar/>
+          <Left Bar/>
 
         </div>
         </>
