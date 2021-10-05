@@ -17,6 +17,7 @@
 .login > button{
     width: 300px;
     background-color: #2e81f4;
+    flex-direction : column;
     color:#eff2f5;
     font-weight: 800;
 }
